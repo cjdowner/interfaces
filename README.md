@@ -1,6 +1,6 @@
 #inter-faces
 
-This download contains 30 images of people that can be applied as avatars for UI mockups, the web, user personas, etc. Use them for whatever you like, free.
+This download contains 30 images of people that can be applied as avatars for UI and the web, App Store screenshots, marketing graphics, etc. Use them for whatever you like, free.
 
 <center>
 <img height="200" width="600" src="img/preview@2x.png">
