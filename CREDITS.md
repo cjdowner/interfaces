@@ -1,3 +1,5 @@
+#### Version 1.0 - 12th October 2016
+
 - [01.jpg](https://www.pexels.com/photo/blonde-haired-woman-in-blue-shirt-y-27411/)
 - [02.jpg](https://www.pexels.com/photo/man-boy-black-and-white-person-9687/)
 - [03.jpg](https://www.pexels.com/photo/camera-photographer-woman-fashion-7529/)
@@ -28,3 +30,16 @@
 - [28.jpg](https://www.pexels.com/photo/old-man-6110/)
 - [29.jpg](https://www.pexels.com/photo/woman-in-black-dress-and-teal-white-fringe-poncho-24326/)
 - [30.jpg](https://www.pexels.com/photo/man-young-happy-smiling-91227/)
+
+#### Version 1.1 - 27th December 2016
+
+- [31.jpg](https://www.pexels.com/photo/woman-in-black-off-shoulder-dress-standing-in-green-flower-field-during-daytime-227349/)
+- [32.jpg](https://www.pexels.com/photo/man-wearing-black-framed-sunglasses-making-face-while-taking-self-photo-128998/)
+- [33.jpg](https://www.pexels.com/photo/man-in-gray-crew-neck-sweatshirt-and-black-pants-sitting-in-gray-concrete-holding-string-instrument-near-body-of-water-160651/)
+- [34.jpg](https://www.pexels.com/photo/bangs-beautiful-eyeglasses-fern-240082/)
+- [35.jpg](https://www.pexels.com/photo/adult-beautiful-casual-cell-phone-207452/)
+- [36.jpg](https://www.pexels.com/photo/woman-in-white-black-half-sleeved-shirt-smiling-25845/)
+- [37.jpg](https://www.pexels.com/photo/man-person-portrait-autumn-16622/)
+- [38.jpg](https://www.pexels.com/photo/beautiful-blur-close-up-fashion-102602/)
+- [39.jpg](https://www.pexels.com/photo/portrait-of-smiling-girl-against-white-background-253758/)
+- [40.jpg](https://www.pexels.com/photo/man-wearing-dress-shirt-posing-beside-wall-199937/)
