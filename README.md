@@ -4,10 +4,9 @@
 
 This download contains 70 images of people that can be applied as avatars for UI and the web, App Store screenshots, marketing graphics, etc. Use them for whatever you like, free.
 
-This download contains 40 images of people that can be applied as avatars for UI and the web, App Store screenshots, marketing graphics, etc. Use them for whatever you like, free.
-
 
 ### <a href="https://github.com/cjdowner/interfaces/archive/master.zip">⬇️ Download All Images</a>
+
 
 All images have been sourced from various community-powered stock photo websites, and have been cropped and resized to three different sizes.
 
