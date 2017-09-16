@@ -17,8 +17,8 @@ A credits file has been included with links to the original images. There you wi
 >All avatars are licensed under the **Creative Commons Zero (CC0) license**. This means the pictures are completely free to be used for any legal purpose.
 >
 >- The pictures are **free** for personal and even for commercial use.
-- You can modify, copy and distribute the photos.
-- All without asking for permission or setting a link to the source. So, **attribution is not required**.
+>- You can modify, copy and distribute the photos.
+>- All without asking for permission or setting a link to the source. So, **attribution is not required**.
 >
 >The only restriction is that identifiable people may not appear in a bad light or in a way that they may find offensive, unless they give their consent.
 >
