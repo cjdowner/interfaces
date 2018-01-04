@@ -1,4 +1,4 @@
-#### Version 1.0 - 12th October 2016
+#### Version 1.0 – 12th October 2016
 
 - [001.jpg](https://www.pexels.com/photo/blonde-haired-woman-in-blue-shirt-y-27411/)
 - [002.jpg](https://www.pexels.com/photo/man-boy-black-and-white-person-9687/)
@@ -31,7 +31,7 @@
 - [029.jpg](https://www.pexels.com/photo/woman-in-black-dress-and-teal-white-fringe-poncho-24326/)
 - [030.jpg](https://www.pexels.com/photo/man-young-happy-smiling-91227/)
 
-#### Version 1.1 - 27th December 2016
+#### Version 1.1 – 27th December 2016
 
 - [031.jpg](https://www.pexels.com/photo/woman-in-black-off-shoulder-dress-standing-in-green-flower-field-during-daytime-227349/)
 - [032.jpg](https://www.pexels.com/photo/man-wearing-black-framed-sunglasses-making-face-while-taking-self-photo-128998/)
@@ -44,7 +44,7 @@
 - [039.jpg](https://www.pexels.com/photo/portrait-of-smiling-girl-against-white-background-253758/)
 - [040.jpg](https://www.pexels.com/photo/man-wearing-dress-shirt-posing-beside-wall-199937/)
 
-#### Version 1.2 - 16th September 2017
+#### Version 1.2 – 16th September 2017
 
 - [041.jpg](https://www.pexels.com/photo/portrait-of-young-woman-255274/)
 - [042.jpg](https://www.pexels.com/photo/portrait-of-young-woman-311178/)
@@ -76,3 +76,26 @@
 - [068.jpg](https://unsplash.com/photos/rVH9D9UvPRs)
 - [069.jpg](https://unsplash.com/photos/cvpk5Y4ZWUs)
 - [070.jpg](https://unsplash.com/photos/jRA-yoDL68M)
+
+#### Version 1.3 – 4th January 2018
+
+- [071.jpg](https://www.pexels.com/photo/beard-blur-casual-close-up-462680/)
+- [072.jpg](https://www.pexels.com/photo/adult-attractive-blue-casual-415326/)
+- [073.jpg](https://unsplash.com/photos/SpIKPT8zeAs)
+- [074.jpg](https://unsplash.com/photos/s068iS_J_5Q)
+- [075.jpg](https://unsplash.com/photos/6Qo_vw9kRlQ)
+- [076.jpg](https://unsplash.com/photos/W7pk4FfrSY0)
+- [077.jpg](https://unsplash.com/photos/Nm70URdtf3c)
+- [078.jpg](https://unsplash.com/photos/pLzBsI6irDg)
+- [079.jpg](https://unsplash.com/photos/IJrIeCs3D4g)
+- [080.jpg](https://unsplash.com/photos/ciLAii9yZEo)
+- [081.jpg](https://unsplash.com/photos/_l9LXmpgzRY)
+- [082.jpg](https://www.pexels.com/photo/man-in-red-and-white-plaid-dress-shirt-and-black-bottoms-with-black-frame-eyeglasses-769728/)
+- [083.jpg](https://www.pexels.com/photo/woman-in-gray-plunging-neckline-sleeveless-top-671800/)
+- [084.jpg](https://unsplash.com/photos/ZGa9d1a_4tA)
+- [085.jpg](https://unsplash.com/photos/-lYtsl62gyU)
+- [086.jpg](https://unsplash.com/photos/IcML2g2svwA)
+- [087.jpg](https://unsplash.com/photos/ILip77SbmOE)
+- [088.jpg](https://unsplash.com/photos/aI45j8n3-5Y)
+- [089.jpg](https://unsplash.com/photos/gKbrJTDV6os)
+- [090.jpg](https://unsplash.com/photos/UPAtLXAEDi4)
