@@ -1,8 +1,8 @@
 # inter-faces
 
-**Latest release:** 1.3 – 4th January 2018
+**Latest release:** 1.4 – 19th March 2018
 
-This download contains 90 images of people that can be applied as avatars for UI and the web, App Store screenshots, marketing graphics, etc. Use them for whatever you like, free.
+This download contains 100 images of people that can be applied as avatars for UI and the web, App Store screenshots, marketing graphics, etc. Use them for whatever you like, free.
 
 
 ### <a href="https://github.com/cjdowner/interfaces/archive/master.zip">⬇️ Download All Images</a>
